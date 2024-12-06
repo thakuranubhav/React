@@ -14,9 +14,9 @@ function App() {
     >
       <Card/>
       <div className="flex flex-wrap gap-3 py-4 px-1">
-      <img class="w-1/3 h-auto rounded-b-xl" src="https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image"/>
+      <img class="w-1/3 h-auto rounded-b-xl" src="	https://www.fortinet.com/content/dam/fortinet/images/general/threat-report-2h-2023-banner.png" alt="Card Image"/>
       <img class="w-1/3 h-auto rounded-b-xl" src="https://images.pexels.com/photos/3621094/pexels-photo-3621094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image"/>
-      <img class="w-1/4 h-auto rounded-b-xl" src="https://images.pexels.com/photos/2356340/pexels-photo-2356340.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Card Image"/>
+      <img class="w-1/4 h-auto rounded-b-xl" src="	https://www.fortinet.com/content/dam/fortinet/images/general/threat-report-2h-2023-banner.png" alt="Card Image"/>
       </div>
     </div>
     <div className="fixed flex flex-wrap justify-center
